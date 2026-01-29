@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="assets/TenantTycoon.png" width="49%" alt="Tenant-Tycoon banner (coming soon)"/>
-  <img src="assets/TenantTycoon.png" width="49%" alt="Tenant-Tycoon banner 2"/>
+  <img src="assets/TenantTycoon2.png" width="49%" alt="Tenant-Tycoon banner 2"/>
 </p>
 
 ---
